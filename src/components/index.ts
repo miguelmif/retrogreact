@@ -1,0 +1,6 @@
+export { default as Header } from "./Header"
+export { default as Main } from "./Main"
+export { default as Foter } from "./Foter"
+export { default as Main2 } from "./Main2"
+export { default as Main3 } from "./Main3"
+export { default as Main4 } from "./Main3"
