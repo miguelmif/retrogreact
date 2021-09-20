@@ -15,8 +15,8 @@ export const Main3 = styled.main`
                 display: flex;
                 text-align: center;
                 font-size: 2rem;
-                ${colors.textbgcolor};
-                width: 70%;
+                background-color: ${colors.textbgcolor};
+                width: 65%;
                 padding: 1rem;
                 margin-left: 13rem;
                 margin-top: 2rem;
@@ -27,19 +27,75 @@ export const Main3 = styled.main`
     section .cojo{
         display: flex;
         flex-direction: row;
-        width: 20%;
-            section .cojo picture{
-                padding: 5rem;
-                    section .cojo picture h4{
-                        font-size: 1.2rem;
-                        text-align: center;
-                        background-color: #C4C4C4;
-                        padding: 1rem;
-                    }
-                    section .cojo picture img{
-                        padding-top: 1rem;
-                        padding-bottom: 1rem;
-                    }  
-            }
+        width: 100%;
+    }
+    .texto1{
+        width: 60%;
+        font-size: 1.2rem;
+        text-align: center;
+        background-color: ${colors.textbgcolor};
+        padding: 1rem;
+        margin-bottom: 1rem;
+        margin-left: 3rem;
+        margin-top: 1rem;
+    }
+    .texto2{
+        width: 60%;
+        font-size: 1.2rem;
+        text-align: center;
+        background-color: ${colors.textbgcolor};
+        padding: 1rem;
+        margin-bottom: 1rem;
+        margin-left: 3rem;
+        margin-top: 1rem;
+    }
+    .texto3{
+        width: 60%;
+        font-size: 1.2rem;
+        text-align: center;
+        background-color: ${colors.textbgcolor};
+        padding: 1rem;
+        margin-bottom: 1rem;
+        margin-left: 3rem;
+        margin-top: 1rem;
+    }
+    .texto4{
+        width: 60%;
+        font-size: 1.2rem;
+        text-align: center;
+        background-color: ${colors.textbgcolor};
+        padding: 1rem;
+        margin-bottom: 1rem;
+        margin-left: 3rem;
+        margin-top: 1rem;
+    }
+    .texto5{
+        width: 60%;
+        font-size: 1.2rem;
+        text-align: center;
+        background-color: ${colors.textbgcolor};
+        padding: 1rem;
+        margin-bottom: 1rem;
+        margin-left: 3rem;
+        margin-top: 1rem;
+    }
+    .texto6{
+        width: 60%;
+        font-size: 1.2rem;
+        text-align: center;
+        background-color: ${colors.textbgcolor};
+        padding: 1rem;
+        margin-bottom: 1rem;
+        margin-left: 3rem;
+        margin-top: 1rem;
+    }
+    .img1{
+        margin-left: 3.5rem;
+    }
+    .img2{
+        margin-left: 4.3rem;
+    }
+    .img3{
+        margin-left: 3.9rem;
     }
 `
